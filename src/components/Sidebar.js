@@ -4,7 +4,7 @@ class Sidebar extends Component {
   render() {
     return (
       <div className="editor column column-25">
-        Sidebar
+        <button className="button button-clear">+ new note</button>
       </div>
     );
   }
