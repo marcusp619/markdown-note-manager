@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import 'milligram';
-
 import Sidebar from './components/Sidebar';
 import Editor from './components/Editor';
 
